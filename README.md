@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dhruv Arun</h1>
-<h3 align="center">I'm an Engineering Physics student at UBC, Vancouver.</h3>
 
 - 🔭 I’m an **Engineering Physics** student pursuing a Minor in **Computer Science**
 
