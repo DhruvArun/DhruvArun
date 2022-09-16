@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Arun</h1>
 <h3 align="center">I'm an Engineering Physics student at UBC, Vancouver.</h3>
 
-- 🔭 I’m currently working at **Nokia as a Software Developer Intern**
+- 🔭 I’m an **Engineering Physics** student pursuing a Minor in **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://dhruvarun.netlify.app/](https://dhruvarun.netlify.app/)
 
